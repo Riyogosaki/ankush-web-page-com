@@ -1,0 +1,11 @@
+#container{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    box-shadow: 5px 10px 20px;
+    border: none;
+    margin-left: 500px;
+}
+body{
+    background-image: url(nature6.jpg);
+}

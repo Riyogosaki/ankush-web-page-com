@@ -1,0 +1,301 @@
+
+.a{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    font-size: 30px;
+  }
+  h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  header{
+    width: 1500px;
+    height: 100px;
+    font-weight: bolder;
+  }
+  input{
+    border-radius: 30px;
+  }
+  #container{
+    text-align: right;
+    font-size: large;
+    width: 1500px;
+    height: 80px;
+    font-weight: bolder;
+
+  }
+
+#container1{
+ font-size: large;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ align-items: center;
+ font-weight: bolder;
+ margin-left: 100px;
+height: 150px;
+width: 1300px;
+text-align: center;
+margin-top: 100px;
+border: none;
+}
+#container2{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    border-radius: 30px;
+    font-weight: bolder;
+}
+
+img{
+    border-radius: 50px;
+}
+#container3{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    margin-left: 20px;
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    font-weight: bolder;
+
+
+}
+#container4{
+    width: 300px;
+    height: 200px;
+    border: none;
+    border-radius: 20px;
+    font-size: large;
+    box-shadow: 10px 10px 50px maroon;
+    font-weight: bolder;
+
+}
+
+#container5{
+    width: 300px;
+    height: 200px;
+    border: none;
+    border-radius: 20px;
+    font-size: large;
+    box-shadow: 10px 10px 50px orange;
+    font-weight: bolder;
+}
+#container6{
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px purple;
+    font-weight: bolder;
+    border: none;
+    align-items: center;
+    border-radius: 20px;
+
+}
+#container6:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px purple;
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}
+#container4:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px rgb(0, 98, 128);
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container5:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px rgb(128, 0, 0);
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container7:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px orangered;
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container8:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px orange;
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container9:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px rgb(179, 231, 179);
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container10:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px yellow;
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container11:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px red;
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}#container12:hover{
+  width: 350px;
+  height: 250px;
+  font-size: large;
+  box-shadow: 10px 10px 90px pink;
+  font-weight: bolder;
+  border: none;
+  align-items: center;
+  border-radius: 40px;
+}
+#conatiner6::after{
+  content: 💀💀💀;
+}
+button{
+    border-radius: 30px;
+    box-shadow: 3px 3px 10px;
+text-align: center;
+font-size: large;
+font-weight: bolder;
+align-items: center;
+}
+
+body{
+background-image: url(nature3.jpg);
+}
+
+#go{
+  display: flex;
+    align-items: center; 
+    justify-content: space-between;
+  }
+
+  #dark{
+    width: 1500px;
+    height: 180px;
+    border: none;
+    border-radius: 30px;
+  }
+
+  #container7{
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px skyblue;
+    font-weight: bolder;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 20px;
+
+  }
+  #container8{
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px yellow;
+    font-weight: bolder;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 20px;
+
+
+  }
+  #container9{
+
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px red;
+    font-weight: bolder;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 20px;
+
+  }
+  #container12{
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px green;
+    font-weight: bolder;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 20px;
+
+
+  } #container10{
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px pink;
+    font-weight: bolder;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 20px;
+
+
+  } #container11{
+    width: 300px;
+    height: 200px;
+    font-size: large;
+    box-shadow: 10px 10px 70px violet;
+    font-weight: bolder;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 20px;
+
+
+  }
+  #let{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    font-weight: bolder;
+
+  }
+  #rate{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    font-weight: bolder;
+
+  }
